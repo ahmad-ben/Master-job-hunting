@@ -1,0 +1,76 @@
+What a cover letter should consist from:
+  Should generally be concise and to the point, typically around 250-400 words. 
+  This is usually structured into three to four short paragraphs, here's a breakdown:
+    Introduction -50 to 75 words-: 
+      Briefly introduce yourself and state the position you're applying for. 
+      Mention how you found the job posting or a referral if applicable.
+    Body -150 to 250 words-: 
+      Highlight your key qualifications and experiences that make you a great fit for the role.
+      Focus on what you can bring to the company, not just what you’ve done in the past.
+    Conclusion -50 to 75 words-: 
+      Reiterate your enthusiasm for the position and the company. 
+      Express interest in discussing your application further.
+  A well-crafted cover letter should be tailored to each job and not exceed one page.
+Some mistakes we should to avoid when writing our Cover Letter:
+  The name of the hiring manager:
+    It always better to get the name if the hiring manager.
+    If the name is not obvious from the job description we can:
+      Search on LinkedIn for the most senior person in the team that fits the wanted position.
+    Additional Step:
+      Check the hiring manager if it's known, and have more info about that may help:
+        His previous work positions.
+        Your mutual connections.
+        His High School.
+  Grammar Mistakes and Typos: 
+    Spelling and grammar errors are deal-breakers for many hiring managers. 
+    Use tools like ChatGPT or ask multiple people to proofread your letter to catch mistakes.
+    Here is a prompt to make ChatGPT find and fix all the grammatical mistakes and typos:
+      I just finished writing a cover letter for a [target role] position at [company].
+      I will share the cover letter below.
+      Your task is to look for and correct all misspelled words and grammatical errors, 
+      check for proper punctuation and capitalization, and improve any readability issues.
+      Also output a table that shows everything that you have changed. Do not hallucinate.
+      Here's my cover letter:
+      [paste your cover letter]
+    Here is a link for all of the ChatGPT prompts:
+      https://jeffsu.notion.site/Public-ChatGPT-for-Job-Search-6a0379843a89494b81143eb0b9043357
+  Weak Hook: 
+    Many candidates fail to engage the reader in the opening paragraph. 
+    Spend time crafting a strong hook that addresses the company’s unique qualities or challenges. 
+      Avoid self-centered language.
+    Ask ChatGPT for pain points someone working in this role would face:
+      Based on this job description, 
+      what is the biggest challenge someone in this position would face day-to-day? 
+      Give me the root cause of this issue.
+      `[paste job description]`
+    Ask ChatGPT to give you an attention-grabbing hook based on The role, and Your background:
+      You are currently working as a `[your current role]` in the `[your industry]` industry 
+      and you're applying for this `[role you're applying for]` position at `[company]`
+      Write an attention-grabbing hook for your cover letter 
+      that highlights your experience and qualifications in a way that shows you empathize 
+      and can successfully take on the challenges of the `[role you’re applying for]` role
+      Consider incorporating specific examples 
+      of how you've tackled these challenges in your past work, 
+      and explore creative ways to express your enthusiasm for the opportunity.
+      Keep your hook within 100 words
+    Ask ChatGPT to write the rest of your cover letter based on your hook
+      You are writing a cover letter applying for 
+      the `[role you’re applying for]` role at `[company]`. Here's what you have so far: 
+        `[paste the hook that was previously generated]`
+      Finish writing the cover letter based on your resume and keep it within 250 words.
+      Keep what we have so far, word for word
+      Here’s your resume: 
+      `[paste your resume]`
+  Lack of Tangible Results: 
+    Rather than just describing your responsibilities, quantify your achievements with numbers. 
+      Show the impact of your work.
+  Poor Cover Letter Hygiene: 
+    Avoid including your full street address, industry jargon, or acronyms.
+      The reader may not understand. 
+    Keep the cover letter concise, ideally one page.
+Good Cover Letter Should Answer These Questions:
+  Why you are the right person for this position?
+  Why this role is the next logical step for you?
+  Why you are interesting in this company?
+    In order to answer any of these questions you can tell a story, short one.
+===================================================================================================

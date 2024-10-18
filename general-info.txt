@@ -1,0 +1,38 @@
+What the different between, CV, Cover Letter, Resume:
+  CV -Curriculum Vitae-
+    Focus on Academics and Detailed Experience: 
+      A CV is often used for academic, research, or highly specialized roles. 
+      It tends to be more detailed and can be longer than a resume.
+    Key Sections: 
+      Education, Research experience, Publications, Conferences, Awards, and Technical skills.
+    Achievements Over Responsibilities: 
+      Highlight accomplishments, particularly in research or academic roles. 
+      Quantify where possible for example:
+        Authored 3 peer-reviewed papers.
+    Customization: 
+      Tailor your CV for specific roles or academic institutions. 
+      Showcase projects or research that align with the position’s focus.
+  Resume
+    Concise and Impactful: 
+      Resumes should ideally be 1-2 pages.
+      Focusing on relevant skills and achievements for the specific job.
+    Tailoring: 
+      Customize the resume for every application. 
+      Use keywords from the job description and ensure your skills match the role.
+    Show Results: 
+      Focus on measurable results.
+        Using bullet points that begin with action verbs, for example: 
+          Increased sales by 30% in 6 months.
+    Skills Section: For technical roles, list relevant programming languages, tools, methodologies..
+  Cover Letter
+    Personalize It: 
+      Address the hiring manager by name whenever possible.
+      Mention the specific job title you're applying for.
+    Show Your Fit: 
+      Rather than repeating your resume, explain why you’re a good fit for this particular job. 
+      Highlight relevant experiences and how you can contribute to the company’s.
+
+
+
+
+
